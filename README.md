@@ -6,7 +6,7 @@ Scala library version 2.11, 2.12, 2.13
 Java 1.8.0_352
 ```
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vitaly-zverev/examples/master?urlpath=lab%2Ftree%2Fnotebooks%2Findex.ipynb) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/vitaly-zverev/tree/master/notebooks/index.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vitaly-zverev/examples/master?urlpath=lab%2Ftree%2Fnotebooks%2Findex.ipynb) [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](https://nbviewer.jupyter.org/github/vitaly-zverev/examples/tree/master/notebooks/index.ipynb) 
 
 
 A collection of [Jupyter](http://jupyter.org/) notebooks showing what you can do with the [Almond](https://almond.sh) Scala kernel.
